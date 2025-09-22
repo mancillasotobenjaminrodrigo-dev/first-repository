@@ -1,1 +1,1 @@
-ste es mi primer respoitorio 
+Primer Repositorio
